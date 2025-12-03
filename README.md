@@ -1,2 +1,0 @@
-# HemisphereAdmin
-admin for loveable 
